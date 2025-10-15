@@ -1,2 +1,2 @@
-# google-project-framework
+# selenium-project-framework
 selenium and testNG
